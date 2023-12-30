@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tasim.mypuskesmas"
+    namespace = "com.kelompok1.mypuskesmas"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tasim.mypuskesmas"
+        applicationId = "com.kelompok1.mypuskesmas"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
